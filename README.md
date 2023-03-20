@@ -1,5 +1,5 @@
 # tsreact-demo
-开发环境 yarn start
+开发环境 npm run start
 线上环境 npm  run build
 
 实现功能：list 增删改查、筛选
