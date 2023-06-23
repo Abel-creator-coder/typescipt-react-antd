@@ -1,8 +1,13 @@
-# tsreact-demo
-开发环境 npm run start
-线上环境 npm  run build
+this is a admin system,it was designed by react\typescipt\antd
 
-实现功能：list 增删改查、筛选
+develop stage:
+npm run start
+
+deply stage:
+npm  run build
+
+modules：list 
+function:additem/deleteitem/modifyitem/queryitem/filteritem
 
 ![image](https://user-images.githubusercontent.com/19236005/226286857-fd277cf2-d778-4470-97b2-29d40833ce8a.png)
 
